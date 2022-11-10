@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="film">
+        <item name="film1"> веном </item>
+        <item name="film2"> мстители </item>
+        <item name="film3"> оно </item>
+        <item name="film4"> счастливого дня смерти </item>
+        <item name="film5"> хеллоуин </item>
+        <item name="film6"> синистер </item>
+        <item name="film7"> поезд в пусан </item>
+        <item name="film8"> анабель </item>
+
+    </array>
+</resources>
